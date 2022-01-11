@@ -5,6 +5,7 @@ For MS Computer Science Non-Thesis
 - [Portfolio Cover Sheet](CSRAS-Portfolio-Cover-Sheet-5.pdf)
 - [Portfolio Guidelines](CS-Portfolio-Guidelines.pdf)
 - [CS Area Courses List](List%20of%20CS%20Area%20Courses.pdf)
+- [Approved 4xx Courses for Sharing](Approved-400.pdf)
 
 ## Useful Links
 - [Grad Forms and Procedures](https://scai.engineering.asu.edu/grad-policies-forms-and-procedures/)
