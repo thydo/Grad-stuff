@@ -1,5 +1,5 @@
 # Grad-stuff
-For MS Computer Science
+For MS Computer Science Non-Thesis
 ## Important Files
 - [iPOS (Plan Of Study) Check List](iPOS-Check-Sheet-Computer-Science-MCS.docx) 
 - [Portfolio Cover Sheet](CSRAS-Portfolio-Cover-Sheet-5.pdf)
