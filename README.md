@@ -10,6 +10,7 @@ For 4+1 MS Computer Science Non-Thesis. GPA Eligibility: 3.25
 - Portfolio submission: April 15, 2023 (For spring graduation, see [Portfolio Guidelines](CS-Portfolio-Guidelines.pdf) for others)
 
 ## Important Files
+- [Grad App Outline](ASU%20GR%20Admissions%20Application_items%20to%20have%20handy.docx)
 - [iPOS (Plan Of Study) Check List](iPOS-Check-Sheet-Computer-Science-MCS.docx)
   - aka classes needed to take  
 - [Portfolio Guidelines](CS-Portfolio-Guidelines.pdf) 
