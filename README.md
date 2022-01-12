@@ -1,5 +1,14 @@
 # Grad-stuff
 For MS Computer Science Non-Thesis. GPA Eligibility: 3.25
+
+## Important Deadlines
+- Grad school app:
+  - Soft Deadline: Feb 1, 2022 (For fall class registrations)
+  - Hard Deadline: May 8, 2022 (To retain 4+1 status)
+- Graduation app: Feb 15, 2022
+- Project report submission: 2 weeks before class' grades due
+- Portfolio submission: April 15, 2023 (For spring graduation, see [Portfolio Guidelines](CS-Portfolio-Guidelines.pdf) for others)
+
 ## Important Files
 - [iPOS (Plan Of Study) Check List](iPOS-Check-Sheet-Computer-Science-MCS.docx)
   - aka classes needed to take  
