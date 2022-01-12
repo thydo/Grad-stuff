@@ -1,5 +1,5 @@
 # Grad-stuff
-For 4+1 MS Computer Science Non-Thesis. GPA Eligibility: 3.25
+For 4+1 MS Computer Science Non-Thesis, expected graduation Spring 2023. GPA Eligibility: 3.25
 
 ## Important Deadlines
 - Grad school app:
